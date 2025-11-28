@@ -6,7 +6,6 @@ A modern, real-time **AWS Cloud Cost Monitoring Tool** built with **Python (Flas
 
 The application features a beautiful **Mint Green Glassmorphism UI** that is fully responsive.
 
-<img width="1892" height="942" alt="Dashboard" src="https://github.com/user-attachments/assets/db5f6cff-7835-4c93-8bb5-8af15f161114" />
 
 ## 📸 Screenshots
 
@@ -14,6 +13,8 @@ The application features a beautiful **Mint Green Glassmorphism UI** that is ful
 Enter your AWS Access Keys and select the Date Range securely to fetch the report.
 
 <img width="1890" height="947" alt="Input_form" src="https://github.com/user-attachments/assets/3c612413-147b-4b38-9b4c-be93c749f972" />
+
+<img width="1892" height="942" alt="Dashboard" src="https://github.com/user-attachments/assets/db5f6cff-7835-4c93-8bb5-8af15f161114" />
 
 ## 🚀 Key Features
 
