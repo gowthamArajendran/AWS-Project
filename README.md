@@ -19,11 +19,11 @@ Enter your AWS Access Keys and select the Date Range securely to fetch the repor
 ## 🚀 Key Features
 
 * **🎨 Modern UI:** Stunning *Mint Green & Pistachio Glassmorphism* design.
-* **📅 Dynamic Date Range:** Analyze costs for any specific date range             (Start Date & End Date).
-* **📊 Data Visualization:** Interactive **Bar Charts** generated to               visualize service-wise spending.
-* **📥 Report Generation:** Download detailed reports in **Excel (XLSX)**          and **PDF** formats.
-* **📧 Smart Email Alerts:** Integrated with **AWS SNS** to send email             notifications for cost updates (Even for ₹0.00 costs!).
-* **₹ Multi-Currency:** Automatically converts USD costs to **Indian Rupees        (INR)**.
+* **📅 Dynamic Date Range:** Analyze costs for any specific date range (Start Date & End Date).
+* **📊 Data Visualization:** Interactive **Bar Charts** generated to visualize service-wise spending.
+* **📥 Report Generation:** Download detailed reports in **Excel (XLSX)** and **PDF** formats.
+* **📧 Smart Email Alerts:** Integrated with **AWS SNS** to send email  notifications for cost updates (Even for ₹0.00 costs!).
+* **₹ Multi-Currency:** Automatically converts USD costs to **Indian Rupees (INR)**.
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-
+https://github.com/gowthamArajendran/AWS-Project.git
 
 
 
